@@ -1,7 +1,4 @@
-AFP Coursework 1 - Connect Four Game
-   
-Viren Vadhvana, Ewan Choi 
-psyvv2@nottingham.ac.uk, psyyc9@nottingham.ac.uk 
+Connect 4 Game in Haskell
 
 ----------------------------------------------------------------------
 

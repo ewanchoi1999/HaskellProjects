@@ -1,7 +1,4 @@
-AFP Coursework 2 - Monadic Compiler
-
-Viren Vadhvana, Ewan Choi 
-psyvv2@nottingham.ac.uk, psycc9@nottingham.ac.uk
+Monadic Compiler in Haskell
 
 --------------------------------------------------------------------------------
 
